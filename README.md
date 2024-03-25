@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am an undergrad at budapest university of technology and economics, i study computer science engineering<br>Proficient in Java, C++, and Python with a strong track record in project delivery, including contributions to open-source Java projects. Expertise in MongoDB and LINQ. Known for collaborative teamwork and delivering impactful solutions.
+Undergrad at Budapest University of Technology and Economics, studying computer science engineering<br>Proficient in Java, C++, and Python with a strong track record in project delivery, including contributions to open-source Java projects. Known for collaborative teamwork and delivering impactful solutions.
+
+Currently working: a 5-man team of software engineers developing a Plumber and Saboteur game. (Java)<br>
+https://github.com/kabu03/software-project-lab
 
 
 ## 🌐 Socials:
@@ -12,8 +15,7 @@ I am an undergrad at budapest university of technology and economics, i study co
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NafezSayyad&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NafezSayyad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NafezSayyad&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
