@@ -4,6 +4,8 @@ Undergrad at Budapest University of Technology and Economics, studying computer 
 Currently working: a 5-man team of software engineers developing a Plumber and Saboteur game. (Java)<br>
 https://github.com/kabu03/software-project-lab
 
+Currently working: LangChain framework for LLMs using python
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/NafezSayyad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nsayyad/) 
