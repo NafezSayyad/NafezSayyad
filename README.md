@@ -1,10 +1,8 @@
 # 💫 About Me:
-Undergrad at Budapest University of Technology and Economics, studying computer science engineering<br>Proficient in Java, C++, and Python with a strong track record in project delivery, including contributions to open-source Java projects. Known for collaborative teamwork and delivering impactful solutions.
-
-Currently working: a 5-man team of software engineers developing a Plumber and Saboteur game. (Java)<br>
-https://github.com/kabu03/software-project-lab
-
+Lead software engineer @TEC-IT
+Currently working: Crossplatform mobile application for a baber shop (client) ios/android (Java)<br>
 Currently working: LangChain framework for LLMs using python
+Currently working: Utilizing Clawdbot in my dailt life on his own local host
 
 
 ## 🌐 Socials:
