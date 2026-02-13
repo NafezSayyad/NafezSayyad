@@ -1,5 +1,6 @@
 # 💫 About Me:
 Lead software engineer @TEC-IT
+#
 Currently working: Crossplatform mobile application for a baber shop (client) ios/android (Java)<br>
 Currently working: LangChain framework for LLMs using python
 Currently working: Utilizing Clawdbot in my dailt life on his own local host
